@@ -91,7 +91,7 @@ export default function Dashboard() {
             </div>
             <h3 className="font-semibold text-white mb-1">API Docs</h3>
             <p className="text-slate-400 text-sm mb-5">Explore all endpoints via Swagger UI.</p>
-            <a href="http://localhost:5000/api/docs" target="_blank" rel="noreferrer">
+            <a href="https://to-do-list-utvi.onrender.com/api/docs" target="_blank" rel="noreferrer">
               <button className="w-full bg-emerald-500/20 hover:bg-emerald-500/30 border border-emerald-500/30 text-emerald-400 text-sm font-medium py-2.5 rounded-xl transition-all">
                 Open Swagger →
               </button>
